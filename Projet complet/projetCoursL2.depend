@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1732667578 source:c:\users\toshiba satellite\documents\mes essais\projetcoursl2\main.cpp
+	<iostream>
+	<string>
+	"functions.h"
+	<vector>
+	<fstream>
+	<algorithm>
+
+1732507488 c:\users\toshiba satellite\documents\mes essais\projetcoursl2\declare.h
+
+1732673462 c:\users\toshiba satellite\documents\mes essais\projetcoursl2\functions.h
+	<iostream>
+	<string>
+	<vector>
+	"functions.h"
+	<fstream>
+	<algorithm>
+
+1732669975 source:c:\users\toshiba satellite\documents\mes essais\projetcoursl2\functions.cpp
+	<iostream>
+	<string>
+	<vector>
+	"functions.h"
+	<fstream>
+	<algorithm>
+

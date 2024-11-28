@@ -1,0 +1,20 @@
+_____________________________ :
+Donnes generales de l´elevage :
+------------------------------- :
+Nombre total d´animaux : 250
+Etat de sante generale des animaux : Normale
+Taux de reproduction mensuel des animaux : 37%
+Date de debut de l´elevage  :Janvier 2024
+Budget total inclus dans l´elevage : 2.375.000 FCFA
+Chiffre Affaire realise : 3.500.000 FCFA
+benefice realise  : 1.125.000 FCFA1
+_____________________________ :
+Donnes generales de l´elevage :
+------------------------------- :
+Nombre total d´animaux : 250
+Etat de sante generale des animaux : Normale
+Taux de reproduction mensuel des animaux : 37%
+Date de debut de l´elevage  :Janvier 2024
+Budget total inclus dans l´elevage : 2.375.000 FCFA
+Chiffre Affaire realise : 3.500.000 FCFA
+benefice realise  : 1.125.000 FCFA1
